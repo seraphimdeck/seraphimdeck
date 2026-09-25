@@ -22,11 +22,3 @@ Analisis intelijen siber independen (CTI), peneliti *Advanced Persistent Threat*
 * **Infrastruktur**: Linux CLI, Server Administration, Docker, NGINX, Tailscale, Sliver C2
 
 ---
-
-## Laporan Intelijen
-
-1. **CTI-001**: *Contagious Interview Campaign – Independent Analysis of the StegaBin Wave* (Lazarus Group)[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span)
-2. **CTI-002**: *Dust Specter – State-Sponsored OSINT Operation Targeting Iraqi Diplomatic Infrastructure*[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span)
-3. **CTI-003**: *Famous Sparrow / SparrowDoor – Analysis & Geopolitical Strategic Assessment*[span_18](start_span)[span_18](end_span)[span_19](start_span)[span_19](end_span)
-
----
