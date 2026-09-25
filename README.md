@@ -1,3 +1,4 @@
+```text
 ┌──(operator㉿seraphim)-[~]
 └─$ cat profile.json
 {
@@ -36,3 +37,7 @@
     ]
   }
 }
+```
+
+### Quick Summary
+Analisis intelijen siber independen dan peneliti *Advanced Persistent Threat* (APT) yang berfokus pada pemetaan ancaman tingkat negara (*state-sponsored threat actors*), simulasi serangan (*adversary emulation*), serta penilaian risiko geopolitik. Mengombinasikan teknik *offensive* (Red Team) dan strategi pertahanan (Purple Team) melalui pengembangan *custom tools* berbasis Rust dan Python. Berkontribusi aktif mempublikasikan analisis CTI mendalam di **Lazarus.day**.
