@@ -1,7 +1,7 @@
 # SerapHim
 *Managed by ArapNigan*
 
-## Summary
+### Summary
 Cyber Threat Intelligence (CTI) Analyst, APT Researcher, Red Team Specialist, and Lazarus.day Contributor with specialization in state-sponsored threat actor profiling, adversary emulation, and geopolitical risk assessment. Seamlessly integrates offensive security methodologies (Red Teaming, Active Directory exploitation, and custom tool/payload development in Rust & Python) with defensive strategies (Purple Teaming, YARA rule validation, and detection gap analysis). Experienced across the complete Intelligence Cycle (Collection, Analysis, Production, and Evaluation) utilizing Cyber-HUMINT and OSINT techniques. Proven track record in executive protection and counter-intelligence.
 ---
 
